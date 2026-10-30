@@ -1,0 +1,16 @@
+{
+  "films": [
+    {"id":"IWxNrUUVN2g","title":"Everyday Chaos","subtitle":"36 jokes. 4 comics. One very ordinary world behaving badly.","image":"everyday-chaos.jpg","label":"The feature presentation","number":"01"},
+    {"id":"qyPXSNvSQA4","title":"He Took the Manager WAY Too Literally","subtitle":"A workplace misunderstanding with excellent commitment.","image":"manager.jpg","label":"Work life","number":"02"},
+    {"id":"nYghXrOrBaI","title":"This Dog Does the Grocery Shopping","subtitle":"The most capable customer in the aisle has four legs.","image":"grocery-dog.jpg","label":"Everyday absurdity","number":"03"},
+    {"id":"il8YnHuqrxA","title":"Their Blackout Dinner Went Wrong","subtitle":"The lights go out. The expectations follow.","image":"blackout-dinner.jpg","label":"Dinner plans","number":"04"},
+    {"id":"XUfRmhWa7Rc","title":"She Pressed the Bell. Then Asked This.","subtitle":"A front door, a question, and perfect comic timing.","image":"doorbell.jpg","label":"At the door","number":"05"}
+  ],
+  "shorts": [
+    {"id":"YhDe1e3aIIA","title":"$60 for a 10-Minute Repair?!","image":"repair.jpg","number":"01"},
+    {"id":"3QzF7v3I-uY","title":"He Took the Manager WAY Too Literally","image":"manager-short.jpg","number":"02"},
+    {"id":"kWx9wcoKhnE","title":"This Dog Does the Grocery Shopping","image":"grocery-dog-short.jpg","number":"03"},
+    {"id":"xxJkpsT1tPM","title":"Their Blackout Dinner Went Wrong","image":"blackout-dinner-short.jpg","number":"04"},
+    {"id":"hd8rXPjgIZ0","title":"She Pressed the Bell. Then Asked This.","image":"doorbell-short.jpg","number":"05"}
+  ]
+}
